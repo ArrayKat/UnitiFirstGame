@@ -66,6 +66,7 @@
   <ItemGroup>
     <Compile Include="Assets\BasicBandit\DemoSceneBasicBandit\Scripts\ButtonFunction.cs" />
     <Compile Include="Assets\BasicBandit\DemoSceneBasicBandit\Scripts\MovementCamera.cs" />
+    <Compile Include="Assets\DayNight.cs" />
     <Compile Include="Assets\Enem.cs" />
     <Compile Include="Assets\LevelReload.cs" />
     <Compile Include="Assets\Rotate.cs" />

@@ -23,4 +23,11 @@ public class Enem : MonoBehaviour
         agent.SetDestination(target.position);
         if ((player.transform.position - agent.transform.position).sqrMagnitude < 10) slider.value -= 10 * Time.deltaTime;
     }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.tag == "Arrow") {
+            Destroy(this.gameObject);
+        }
+    }
 }

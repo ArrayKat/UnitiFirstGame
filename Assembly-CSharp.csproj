@@ -69,10 +69,12 @@
     <Compile Include="Assets\DayNight.cs" />
     <Compile Include="Assets\Enem.cs" />
     <Compile Include="Assets\LevelReload.cs" />
+    <Compile Include="Assets\MainMenu.cs" />
     <Compile Include="Assets\Rotate.cs" />
     <Compile Include="Assets\Scenes\DangerZone.cs" />
     <Compile Include="Assets\Scenes\LoadLevel.cs" />
     <Compile Include="Assets\Shoot.cs" />
+    <Compile Include="Assets\WinScene.cs" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.3f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>

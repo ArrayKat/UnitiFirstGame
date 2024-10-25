@@ -45,7 +45,7 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 957
-  m_MinSize: {x: 679, y: 492}
+  m_MinSize: {x: 678, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
   controlID: 42
@@ -68,8 +68,8 @@ MonoBehaviour:
     y: 0
     width: 389
     height: 957
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -216,10 +216,10 @@ MonoBehaviour:
     y: 0
     width: 1531
     height: 957
-  m_MinSize: {x: 403, y: 492}
+  m_MinSize: {x: 402, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 89
+  controlID: 99
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -241,10 +241,10 @@ MonoBehaviour:
     y: 0
     width: 1531
     height: 579
-  m_MinSize: {x: 403, y: 221}
-  m_MaxSize: {x: 8003, y: 4021}
+  m_MinSize: {x: 402, y: 221}
+  m_MaxSize: {x: 8002, y: 4021}
   vertical: 0
-  controlID: 90
+  controlID: 100
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -338,20 +338,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Scenes
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\UnityProject\FirstGameUnity
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 56350000
-    m_LastClickedID: 13654
-    m_ExpandedIDs: 0000000056350000583500005a3500005c3500005e35000060350000623500006435000066350000683500006a3500006c35000078350000a638000000ca9a3b
+    m_SelectedIDs: 92350000
+    m_LastClickedID: 13714
+    m_ExpandedIDs: 0000000070350000723500007435000076350000783500007a3500007c3500007e3500008035000082350000843500008635000094350000f835000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -379,7 +379,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000056350000583500005a3500005c3500005e35000060350000623500006435000066350000683500006a3500006c350000
+    m_ExpandedIDs: 0000000070350000723500007435000076350000783500007a3500007c3500007e35000080350000823500008435000086350000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -423,7 +423,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 3}
+      m_ClientGUIView: {fileID: 5}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -504,7 +504,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 6afbffff
+      m_ExpandedIDs: bee1ffffc4ebffffecf2fffffef8ffff6afbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -564,9 +564,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 13.59856, y: 4.245962, z: 3.7620077}
+    m_Target: {x: 84.810005, y: 0.06692952, z: 101.22299}
     speed: 2
-    m_Value: {x: 13.59856, y: 4.245962, z: 3.7620077}
+    m_Value: {x: 84.810005, y: 0.06692952, z: 101.22299}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -612,13 +612,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.074837886, y: -0.5004059, z: -0.043551404, w: -0.8615153}
+    m_Target: {x: -0.16421634, y: 0.72618705, z: -0.1861174, w: -0.64124614}
     speed: 2
-    m_Value: {x: 0.07483369, y: -0.5003779, z: -0.043548964, w: -0.861467}
+    m_Value: {x: -0.16420394, y: 0.7261323, z: -0.18610336, w: -0.64119774}
   m_Size:
-    m_Target: 10.742671
+    m_Target: 0.5722761
     speed: 2
-    m_Value: 10.742671
+    m_Value: 0.5722761
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -760,4 +760,29 @@ MonoBehaviour:
     y: 718
     width: 1366
     height: 308
+  m_ViewDataDictionary: {fileID: 0}
+--- !u!114 &19
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12059, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEditor:UnityEditor.Experimental.TerrainAPI:PaintTextureTool
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Failed to load
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 320
+    height: 550
   m_ViewDataDictionary: {fileID: 0}
